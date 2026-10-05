@@ -16,8 +16,9 @@ Welcome to my Cryptography Laboratory repository! This repository serves as a ce
 
 **Clone the Repository**
 
-git clone [https://github.com/sufriya-rec/cryptography.git](https://github.com/sufriya-rec/cryptography.git)
+git clone https://github.com/sufriya-rec/cryptography.git
 cd cryptography
+
 ---
 
 ## 👩‍💻 Author
